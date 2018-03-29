@@ -1,0 +1,6 @@
+_site*
+_tmp*
+.sass-cache
+.jekyll-metadata
+*backup/_site/
+_site/
